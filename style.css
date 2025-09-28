@@ -81,3 +81,12 @@ span {
     border: none;
     color: #F2F7FF;
 }
+
+.btn2 {
+    width: 291px;
+    height: 56px;
+    background-image: linear-gradient(45deg, #3A8EF6, #6F3AFA 50%);
+    border-radius: 100px;
+
+
+}
